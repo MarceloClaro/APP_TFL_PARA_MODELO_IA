@@ -1,2 +1,2 @@
 # APP_TFL_PARA_MODELO_IA
-O aplicativo TensorFlow Lite é uma poderosa ferramenta que permite a incorporação de modelos de aprendizado de máquina para realizar a classificação de imagens. 
+O aplicativo TensorFlow Lite é uma poderosa ferramenta que permite a incorporação de modelos de aprendizado de máquina para realizar a classificação de imagens. A flexibilidade desse aplicativo permite que você substitua o modelo existente por outro, possibilitando assim a classificação de diferentes tipos de imagens de acordo com a necessidade do projeto ou aplicação em questão. 
